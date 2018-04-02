@@ -1,3 +1,6 @@
+html {
+    background: #231F20
+}
 .webgl-content * {border: 0; margin: 0; padding: 0}
 .webgl-content {
     position: absolute;
